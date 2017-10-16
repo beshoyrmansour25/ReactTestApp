@@ -1,6 +1,6 @@
 # first React App
 ## this app for learning Propose 
-### following 'Modern React with Redux' course on udemy url : https://www.udemy.com/react-redux/learn/v4/overview
+### following ' [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview) ' course on [udemy.com](udemy.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
